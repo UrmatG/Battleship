@@ -1,0 +1,41 @@
+body {
+  font-family: "Montserrat";
+}
+
+button {
+  background-color: midnightblue;
+  color: white;
+  padding: 20px;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 125%;
+  border: 3px solid FireBrick;
+  border-radius: 10px;
+  transition-duration: 0.2s;
+}
+
+button:hover {
+  background-color: FireBrick;
+}
+
+table {
+  text-align: center;
+  font-size: 200%;
+}
+
+td {
+  width: 150px;
+  height: 75px;
+}
+
+.cells {
+  height: 150px;
+  padding: 0;
+  background-color: LightBlue;
+  font-size: 250%;
+  font-weight: 200;
+}
+
+#commentary {
+  color: FireBrick;
+}
